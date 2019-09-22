@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-webserver-websocket-testprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeSocketClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdemir/nodejs-webserver-websocket-testprojects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdemir/nodejs-webserver-websocket-testprojects/issues"
+  },
+  "homepage": "https://github.com/tdemir/nodejs-webserver-websocket-testprojects#readme",
+  "dependencies": {
+    "urlify": "^0.3.6"
+  }
+}
